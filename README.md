@@ -1,28 +1,52 @@
-# coa6145f3a9c7e1cbc40f5f6a
+# React Facts Site
+Your very first React app will be a static site about React! This gives you an intro to the basic principles of the library.
 
-Quick start:
+## Table of contents
+- [Introduction](#introduction)
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Built using](#built-using)
+  - [Lessons Learned](#lessons-learned)
+- [Author](#author)
+- [Acknowledgement](#acknowledgement)
+- [Additional Note](#additional-note)
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Introduction
+- This is my solution to the first part of [Learn React](https://scrimba.com/learn/learnreact).
+- This webpage was setup using [Vite](https://vitejs.dev/).
+- This webpage features:
+    - Basic React components
+    - Dark Mode
 
-## Development
+## Overview
+- Link: [github.com/kierhb/react-facts-site](https://github.com/kierhb/react-facts-site)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+### Screenshot
+![screenshot-light](./react-facts-light.jpg)
+![screenshot-dark](./react-facts-dark.jpg)
 
-```
-$ yarn watch # npm run watch
-```
+### Built using
 
-## About Scrimba
+- HTML5 markup
+- CSS
+- Vanilla JavaScript
+- ReactJS
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### Lessons Learned
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Why we use React
+- JSX
+- Custom components
+- Styling
+- Static Pages
 
-Happy Coding!
+## Author
+
+- GitHub - [@kierhb](https://github.com/kierhb)
+- LinkedIn - [Kier Bobila](https://www.linkedin.com/in/kier-bobila/)
+
+## Acknowledgement
+I want to acknowledge the course instructor Bob Ziroll and to all members of Scrimba community.
+
+## Additional Note
+The added toggle feature for dark mode was covered in the fourth part of the [Learn React](https://scrimba.com/learn/learnreact).
